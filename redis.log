@@ -1,0 +1,24 @@
+3387:C 07 Dec 2022 16:04:57.616 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3387:C 07 Dec 2022 16:04:57.617 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=3387, just started
+3387:C 07 Dec 2022 16:04:57.617 # Configuration loaded
+3387:M 07 Dec 2022 16:04:57.620 * monotonic clock: POSIX clock_gettime
+3387:M 07 Dec 2022 16:04:57.621 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+3387:M 07 Dec 2022 16:04:57.621 # Failed listening on port 6379 (TCP), aborting.
+5173:C 07 Dec 2022 17:41:32.900 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+5173:C 07 Dec 2022 17:41:32.901 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=5173, just started
+5173:C 07 Dec 2022 17:41:32.901 # Configuration loaded
+5173:M 07 Dec 2022 17:41:32.904 * monotonic clock: POSIX clock_gettime
+5173:M 07 Dec 2022 17:41:32.905 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+5173:M 07 Dec 2022 17:41:32.905 # Failed listening on port 6379 (TCP), aborting.
+5244:C 07 Dec 2022 17:44:09.677 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+5244:C 07 Dec 2022 17:44:09.679 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=5244, just started
+5244:C 07 Dec 2022 17:44:09.679 # Configuration loaded
+5244:M 07 Dec 2022 17:44:09.681 * monotonic clock: POSIX clock_gettime
+5244:M 07 Dec 2022 17:44:09.682 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+5244:M 07 Dec 2022 17:44:09.682 # Failed listening on port 6379 (TCP), aborting.
+14688:C 02 Jan 2023 11:29:06.769 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14688:C 02 Jan 2023 11:29:06.771 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=14688, just started
+14688:C 02 Jan 2023 11:29:06.772 # Configuration loaded
+14688:M 02 Jan 2023 11:29:06.775 * monotonic clock: POSIX clock_gettime
+14688:M 02 Jan 2023 11:29:06.776 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+14688:M 02 Jan 2023 11:29:06.777 # Failed listening on port 6379 (TCP), aborting.
